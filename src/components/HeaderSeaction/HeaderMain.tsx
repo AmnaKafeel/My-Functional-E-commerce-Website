@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'next/link'
-import { FaSearch } from "react-icons/fa";
 import { FiShoppingCart } from "react-icons/fi";
 import { CgProfile } from "react-icons/cg";
 import { NavigationMenuDemo } from '@/components/NavMenu';
